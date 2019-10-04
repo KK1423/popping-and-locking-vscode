@@ -71,6 +71,11 @@
                 "label": "Popping and Locking",
                 "uiTheme": "vs-dark",
                 "path": "./themes/popping-and-locking.json"
+            },
+            {
+                "label": "Popping and Locking Remastered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/popping-and-locking_alt.json"
             }
         ]
     },
