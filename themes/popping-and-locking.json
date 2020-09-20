@@ -2,12 +2,27 @@
   "name": "Popping and Locking",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#1C1D26",
+    "activityBar.background": "#1c1d26",
     "activityBar.foreground": "#f2e5bc",
     "activityBarBadge.background": "#d79921",
     "activityBarBadge.foreground": "#f9f5d7",
 
-    "sideBar.background": "#1C1D26",
+    "debugToolBar.background": "#181921",
+    "debugIcon.startForeground": "#7ec16e",
+    "debugIcon.pauseForeground":"#d79921",
+    "debugIcon.stepOverForeground":"#d79921",
+    "debugIcon.stepIntoForeground":"#d79921",
+    "debugIcon.stepOutForeground":"#d79921",
+    "debugIcon.continueForeground":"#d79921",
+    "debugIcon.stepBackForeground":"#d79921",
+
+    "panelTitle.activeForeground": "#fbf1c7",
+
+    "debugIcon.stopForeground": "#f42c3e",
+    "debugIcon.disconnectForeground": "#f42c3e",
+    "debugIcon.restartForeground": "#7ec16e",
+
+    "sideBar.background": "#1c1d26",
     "sideBar.foreground": "#fbf1c7",
     "sideBarSectionHeader.background": "#21222d",
     "list.activeSelectionBackground": "#313242",
